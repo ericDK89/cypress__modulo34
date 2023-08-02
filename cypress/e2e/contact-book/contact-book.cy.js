@@ -1,4 +1,4 @@
-describe("Test for schedule", () => {
+describe("Test for contact book", () => {
   beforeEach(() => {
     cy.visit("https://agenda-contatos-react.vercel.app/")
   })
